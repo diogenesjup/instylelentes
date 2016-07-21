@@ -1,4 +1,4 @@
-# instylelentes
+# Instylelentes WordPress Theme
 Instylelentes WordPress Theme
 
 Link: http://projetos.neodream.com.br/instylelentes/ ou http://www.instylelentes.com.br
